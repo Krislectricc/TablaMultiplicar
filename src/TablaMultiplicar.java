@@ -1,6 +1,6 @@
  import java.util.*;
 /**
- * Programa que lea un número entero N y muestre la tabla de multiplicar de ese número.
+ * HACIENDO CAMBIOS PARA EL EJERCICIO DE CLASEEE
  * @author Enrique
  */
 public class TablaMultiplicar {
@@ -9,7 +9,7 @@ public class TablaMultiplicar {
  
         Scanner entra = new Scanner(System.in);
         int n;
-        System.out.print("Introduce un número entero: ");                                                         
+        System.out.print("SOLO PON EL NUMERO 4 ");                                                         
         n = entra.nextInt();
         System.out.println("Tabla del " + n);
         System.out.println("***********");
