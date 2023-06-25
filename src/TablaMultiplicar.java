@@ -9,7 +9,7 @@ public class TablaMultiplicar {
  
         Scanner entra = new Scanner(System.in);
         int n;
-        System.out.print("SOLO PON EL NUMERO 4 ");                                                         
+        System.out.print("SOLO PON EL NUMERO 6 ");                                                         
         n = entra.nextInt();
         System.out.println("Tabla del " + n);
         System.out.println("***********");
